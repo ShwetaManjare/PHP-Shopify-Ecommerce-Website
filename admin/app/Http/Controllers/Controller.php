@@ -257,7 +257,6 @@
 			header ("Content-type: octet/stream"); 
 			@readfile($path);
 		}
-		
 		## [C]ovnert Function
 		public function convertDataToChartFormat($data)
 		{
